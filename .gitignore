@@ -1,0 +1,16 @@
+cifar/data/*
+
+kaggle/kaggle-digit/csvs/*
+kaggle/kaggle-digit/data/*
+kaggle/kaggle-digit/models/*
+kaggle/kaggle-digit/*.npy
+
+kaggle/kaggle-titanic/csvs/*
+kaggle/kaggle-titanic/data/*
+
+keras/models/*
+
+tensorflow/MNIST_data/*
+tensorflow/model/*
+
+tensorflow-mnist-tutorial/*
